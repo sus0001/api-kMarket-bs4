@@ -3,7 +3,7 @@ A fastAPI that scrapes and stores publicly available data from the government we
 
 # Path parameter to add to enpoint url
 : main_url --> https://k-market-bs4.herokuapp.com/kalimati_market
-               https:/k-market-bs4.herokuapp.com/kalimati_market
+               https://k-market-bs4.herokuapp.com/kalimati_market
                for english and nepali version respectively:
 
 # Five url end-point for the individual data
